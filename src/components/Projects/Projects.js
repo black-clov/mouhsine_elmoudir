@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
+import leaf from "../../Assets/Projects/P4.png";
 import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import editor from "../../Assets/Projects/P3.png";
+import chatify from "../../Assets/Projects/P1.png";
+import suicide from "../../Assets/Projects/P5.jpg";
+import bitsOfCode from "../../Assets/Projects/P2.png";
 
 function Projects() {
   return (
@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="3D Web application for campus indoor navigation "
               description="Development of 3D application to help students and visitors inside the campus navigate from door to door using 3D modeling floors and advanced path finding algorithms"
-              ghLink="https://github.com/black-clov"
+              ghLink="https://drive.google.com/file/d/1KJlGy45nWoWiwDko6EQmD9qCOewEbzf-/view?usp=drivesdk"
               
             />
           </Col>
